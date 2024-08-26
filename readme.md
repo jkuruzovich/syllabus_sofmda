@@ -5,10 +5,10 @@ To grasp the foundations of management in the digital age, it is essential to ex
 
 [Click here to access papers on shared Box drive.](https://rpi.box.com/s/gxi73zjb3l6k7f2joizdfoyf1z1zs1g9)
 
+*You will have to register for an RPI box account. See instructions [here](https://itssc.rpi.edu/hc/en-us/articles/360004742212-Box-Overview-Registering-for-an-RPI-Box-Account).*
+
 *Always check back here for updates on the readings of the week.* 
 
-
-*You will have to register for an RPI box account. See instructions [here](https://itssc.rpi.edu/hc/en-us/articles/360004742212-Box-Overview-Registering-for-an-RPI-Box-Account).*
 
 ## Week 1: Introduction to Research and the Subject of Digital Transformation
 
