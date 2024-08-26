@@ -1,5 +1,7 @@
-```markdown
+
 # Strategic and Organizational Foundations of Managing in the Digital Age
+
+Always check back here for updates on the readings of the week. 
 
 ## Week 1: Introduction to Research and the Subject of Digital Transformation
 
@@ -17,4 +19,3 @@ For an assignment, please indicate three meaningful takeaways you might bring in
 
 - **Practitioner Reading:**
   - Westerman, G., Bonnet, D., & McAfee, A. (2014). ["The Nine Elements of Digital Transformation."](https://sloanreview.mit.edu/article/the-nine-elements-of-digital-transformation/) *MIT Sloan Management Review.*
-```
