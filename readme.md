@@ -38,7 +38,6 @@ To grasp the foundations of management in the digital age, it is essential to ex
 
 The goal of this first week is to explore what we do as researchers while providing a comprehensive overview of digital transformation, research objectives, and the overall scope of the course. While the details of research processes may vary across disciplines, the underlying goals and outcomes are often quite similar. This week’s readings are more extensive than usual, but the intention is not to delve into every detail. Instead, you should focus on skimming the material to grasp the main ideas and develop a broad understanding of the topics at hand.
 
-Assignment: Please identify and describe three meaningful takeaways that you can apply to your future research activities. Each takeaway should be captured in a short paragraph, with the entire assignment totaling approximately one page.
 
 
 - **Academic Readings:**
