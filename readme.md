@@ -50,10 +50,14 @@ The goal of this first week is to explore what we do as researchers while provid
 - **Practitioner Reading:**
   - Westerman, G., Bonnet, D., & McAfee, A. (2014). "The Nine Elements of Digital Transformation." *MIT Sloan Management Review.*
 
-
-
 ## Week 2: Digital Transformation and Marketing
-- The impact of digital technologies on marketing strategies, consumer behavior, and data analytics.
+This week, we'll explore how digital technologies are reshaping marketing strategies, the role of social media, and the dynamics of online platforms. Our focus will not only be on understanding these transformations but also on how to effectively frame a research paper's contribution in the introduction. As you read each of the papers listed below, pay close attention to how the authors articulate the significance of their work. Additionally, I'll share insights into the journey of a research contribution through the publication process, providing a behind-the-scenes look at how research is developed and refined.
+
+- Kannan, P. K., & Li, H. (2017). "Digital marketing: A framework, review and research agenda." International Journal of Research in Marketing, 34(1), 22-45.
+- Rust, R. T., & Huang, M.-H. (2014). "The Service Revolution and the Transformation of Marketing Science." Marketing Science, 33(2), 206-221.
+- Overgoor, G., Rand, W., van Dolen, W., & Mazloom, M. (2022). "Simplicity is not key: Understanding firm-generated social media images and consumer liking." International Journal of Research in Marketing, 39, 639-655.
+- Viswanathan, S., Kuruzovich, J., Gosain, S., & Agarwal, R. (2007). "Online Infomediaries and Price Discrimination: Evidence from the Automotive Retailing Sector." Journal of Marketing, 71(3), 89-107.
+
 
 ## Week 3: Digital Transformation and Finance
 - Fintech innovations, blockchain, digital currencies, and the transformation of financial services.
