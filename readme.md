@@ -75,7 +75,7 @@ This week, we'll examine how digital transformation is reshaping financial marke
 
 - Harvey, C. R., & Rabetti, D. (2024). "International business and decentralized finance." _Journal of International Business Studies_, 1–24.
 
-## Week 4: Digital Transformation and Human Resources
+## Week 4: Digital Transformation and Human Resources, Labor, and Work
 - Digital HR, talent management, remote work, and the use of AI in HR practices.
 
 ## Week 5: Digital Transformation and Entrepreneurship and Innovation Management
