@@ -67,7 +67,7 @@ This week, we'll examine how digital transformation is reshaping financial marke
 **Readings:**
 - Baik, B., Kim, A., Kim, D. S., & Yoon, S. (2024). _Vocal Delivery Quality in Earnings Conference Calls_. Chicago Booth Research Paper No. 23-21. [Link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4398495)
 
-- Philippon, T. (2017). "The FinTech Opportunity." [NBER Working paper 22476.] 
+- Philippon, T. (2017). "The FinTech Opportunity." [NBER Working paper 22476.](https://www.nber.org/system/files/working_papers/w22476/w22476.pdfs) 
 
 - Zhang, X., & Zhang, L. (2015). "How does the internet affect the financial market? An equilibrium model of internet-facilitated feedback trading." _MIS Quarterly_, 39(1), 17–38.
 
