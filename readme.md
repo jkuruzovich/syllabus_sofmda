@@ -75,8 +75,29 @@ This week, we'll examine how digital transformation is reshaping financial marke
 
 - Harvey, C. R., & Rabetti, D. (2024). "International business and decentralized finance." _Journal of International Business Studies_, 1–24.
 
-## Week 4: Digital Transformation and Human Resources, Labor, and Work
-- Digital HR, talent management, remote work, and the use of AI in HR practices.
+## Week 4: Digital Transformation and Human Resources
+
+This week, we will explore how digital transformation is impacting Human Resources (HR) through advancements in artificial intelligence, remote work technologies, and automated hiring systems. We'll delve into the challenges and opportunities these technologies present for managing talent, diversity, and inclusion, as well as their broader implications for the future of work.
+
+### Readings:
+## Week 4: Digital Transformation and Human Resources
+
+This week, we will explore how digital transformation is impacting Human Resources (HR) through advancements in artificial intelligence, remote work technologies, and automated hiring systems. We'll delve into the challenges and opportunities these technologies present for managing talent, diversity, and inclusion, as well as their broader implications for the future of work.
+
+### Readings:
+
+1. **Golden, T. D., & Veiga, J. F. (2005).** The impact of extent of telecommuting on job satisfaction: Resolving inconsistent findings. *Journal of Management*, 31(2), 301–318. [https://doi.org/10.1177/0149206304271768](https://doi.org/10.1177/0149206304271768)
+
+2. **Tambe, P., Cappelli, P., & Yakubovich, V. (2019).** Artificial intelligence in human resources management: Challenges and a path forward. *California Management Review*, 61(4), 15–42. [https://doi.org/10.1177/0008125619867910](https://doi.org/10.1177/0008125619867910)
+
+3. **Hickman, L., Bosch, N., Ng, V., Saef, R., Tay, L., & Woo, S. E. (2022).** Automated video interview personality assessments: Reliability, validity, and generalizability investigations. *Journal of Applied Psychology*, 107(8), 1323–1351. [https://doi.org/10.1037/apl0000695](https://doi.org/10.1037/apl0000695)
+
+4. **Arhin, K., Hickman, L., & Kuruzovich, J. (2022).** You Don’t Sound Black: Codeswitching, AI, and the Use of HR Platforms in Candidate Selection. Revise and Resubmit at *Journal of the Association for Information Systems*. (+Response to reviewers)
+
+5. **Brynjolfsson, E., Horton, J. J., Makridis, C., Mas, A., Ozimek, A., Rock, D., & TuYe, H. Y.** How Many Americans Work Remotely? A Survey of Surveys and Their Measurement Issues. *NBER Working Paper* 31193. [http://www.nber.org/papers/w31193](http://www.nber.org/papers/w31193)
+
+
+
 
 ## Week 5: Digital Transformation and Entrepreneurship and Innovation Management
 - How digital tools and platforms are enabling new ventures and disrupting traditional business models.
