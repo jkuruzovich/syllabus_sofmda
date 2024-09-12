@@ -82,7 +82,7 @@ This week, we will explore how digital transformation is impacting Human Resourc
 **Readings:**
 1. **Golden, T. D., & Veiga, J. F. (2005).** The impact of extent of telecommuting on job satisfaction: Resolving inconsistent findings. *Journal of Management*, 31(2), 301–318. [https://doi.org/10.1177/0149206304271768](https://doi.org/10.1177/0149206304271768)
 
-2. **Tambe, P., Cappelli, P., & Yakubovich, V. (2019).** Artificial intelligence in human resources management: Challenges and a path forward. *California Management Review*, 61(4), 15–42. [https://doi.org/10.1177/0008125619867910](https://doi.org/10.1177/0008125619867910)
+2. **Allen, T. D., Golden, T. D., & Shockley, K. M. (2015).** How effective is telecommuting? Assessing the status of our scientific findings. *Psychological Science in the Public Interest*, 16(2), 40–68. [https://doi.org/10.1177/1529100615593273](https://doi.org/10.1177/1529100615593273)
 
 3. **Hickman, L., Bosch, N., Ng, V., Saef, R., Tay, L., & Woo, S. E. (2022).** Automated video interview personality assessments: Reliability, validity, and generalizability investigations. *Journal of Applied Psychology*, 107(8), 1323–1351. [https://doi.org/10.1037/apl0000695](https://doi.org/10.1037/apl0000695)
 
@@ -90,7 +90,8 @@ This week, we will explore how digital transformation is impacting Human Resourc
 
 5. **Brynjolfsson, E., Horton, J. J., Makridis, C., Mas, A., Ozimek, A., Rock, D., & TuYe, H. Y.** How Many Americans Work Remotely? A Survey of Surveys and Their Measurement Issues. *NBER Working Paper* 31193. [http://www.nber.org/papers/w31193](http://www.nber.org/papers/w31193)
 
-
+Optional (this is an interesting paper that may give some research ideas):
+6. **Tambe, P., Cappelli, P., & Yakubovich, V. (2019).** Artificial intelligence in human resources management: Challenges and a path forward. *California Management Review*, 61(4), 15–42. [https://doi.org/10.1177/0008125619867910](https://doi.org/10.1177/0008125619867910)
 
 
 ## Week 5: Digital Transformation and Entrepreneurship and Innovation Management
