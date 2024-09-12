@@ -91,6 +91,7 @@ This week, we will explore how digital transformation is impacting Human Resourc
 5. **Brynjolfsson, E., Horton, J. J., Makridis, C., Mas, A., Ozimek, A., Rock, D., & TuYe, H. Y.** How Many Americans Work Remotely? A Survey of Surveys and Their Measurement Issues. *NBER Working Paper* 31193. [http://www.nber.org/papers/w31193](http://www.nber.org/papers/w31193)
 
 Optional (this is an interesting paper that may give some research ideas):
+
 6. **Tambe, P., Cappelli, P., & Yakubovich, V. (2019).** Artificial intelligence in human resources management: Challenges and a path forward. *California Management Review*, 61(4), 15–42. [https://doi.org/10.1177/0008125619867910](https://doi.org/10.1177/0008125619867910)
 
 
