@@ -40,7 +40,7 @@ The goal of this first week is to explore what we do as researchers while provid
 
 
 
-- **Academic Readings:**
+**Readings:**
   - Bartunek, J. M., Rynes, S. L., & Ireland, R. D. (2006). "What Makes Management Research Interesting, and Why Does It Matter?" *Academy of Management Journal, 49(1),* 9-15.
   - Corley, K. G., & Gioia, D. A. (2011). "Building Theory about Theory Building: What Constitutes a Theoretical Contribution?" *Academy of Management Review, 36(1),* 12-32.
   - Shepherd, D. A., & Suddaby, R. (2017). "Theory Building: A Review and Integration." *Journal of Management, 43(1),* 59-86.
@@ -75,14 +75,11 @@ This week, we'll examine how digital transformation is reshaping financial marke
 
 - Harvey, C. R., & Rabetti, D. (2024). "International business and decentralized finance." _Journal of International Business Studies_, 1–24.
 
-
-### Readings:
 ## Week 4: Digital Transformation and Human Resources
 
 This week, we will explore how digital transformation is impacting Human Resources (HR) through advancements in artificial intelligence, remote work technologies, and automated hiring systems. We'll delve into the challenges and opportunities these technologies present for managing talent, diversity, and inclusion, as well as their broader implications for the future of work.
 
-### Readings:
-
+**Readings:**
 1. **Golden, T. D., & Veiga, J. F. (2005).** The impact of extent of telecommuting on job satisfaction: Resolving inconsistent findings. *Journal of Management*, 31(2), 301–318. [https://doi.org/10.1177/0149206304271768](https://doi.org/10.1177/0149206304271768)
 
 2. **Tambe, P., Cappelli, P., & Yakubovich, V. (2019).** Artificial intelligence in human resources management: Challenges and a path forward. *California Management Review*, 61(4), 15–42. [https://doi.org/10.1177/0008125619867910](https://doi.org/10.1177/0008125619867910)
