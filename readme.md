@@ -113,8 +113,8 @@ Optional (this is an interesting paper that may give some research ideas):
 ## Week 10: Digital Transformation and Public Sector/Government
 - The adoption of digital technologies in government, smart cities, and public services.
 
-## Week 11: Innovation Management in the Digital Era
-- Managing innovation in a digital context, including the role of R&D, collaboration, and digital tools.
+## Week 11: Digital Transformation and Labor Markets
+- Examining the effects of digital transformation on labor markets, including automation, AI, and the gig economy. We'll explore how digital tools are reshaping work, employment patterns, and the skills required for the future workforce.
 
 ## Week 12: Digital Transformation and Organizational Change
 - How organizations adapt to digital transformation, including change management and leadership.
