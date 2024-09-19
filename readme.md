@@ -103,13 +103,13 @@ This week, we will examine how digital tools and platforms are enabling the crea
 
 - Nevo, S., & Wade, M. R. (2010). The formation and value of IT-enabled resources: Antecedents and consequences of synergistic relationships. *MIS Quarterly*, 34(1), 163-183.
 
+- Nevo, S., Nevo, D., & Pinsonneault, A. (2020). Exploring the role of IT in the front-end of innovation: An empirical study of IT-enabled creative behavior. *Information and Organization*, 30(4), 100322.
+
 - Yu, S. (2020). How do accelerators impact the performance of high-technology ventures? *Management Science*, 66(2), 530-552.
 
 - Greenwood, B. N., & Gopal, A. (2015). Tigerblood: Newspapers, blogs, and the founding of information technology firms. *Information Systems Research*, 26(4), 812-828.
 
 - Yu, S., & Fleming, L. (2022). Regional crowdfunding and high tech entrepreneurship. *Research Policy*, 51(9), 104348.
-
-- Freiberg, B., & Matz, S. C. (2023). Founder personality and entrepreneurial outcomes: A large-scale field study of technology startups. *Proceedings of the National Academy of Sciences*, 120(19), e2215829120.
 
 
 ## Week 6: Digital Transformation and Healthcare
