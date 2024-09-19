@@ -95,8 +95,22 @@ Optional (this is an interesting paper that may give some research ideas):
 6. **Tambe, P., Cappelli, P., & Yakubovich, V. (2019).** Artificial intelligence in human resources management: Challenges and a path forward. *California Management Review*, 61(4), 15–42. [https://doi.org/10.1177/0008125619867910](https://doi.org/10.1177/0008125619867910)
 
 
-## Week 5: Digital Transformation and Entrepreneurship and Innovation Management
-- How digital tools and platforms are enabling new ventures and disrupting traditional business models.
+## Week 5: Digital Transformation of Startups and Organizations
+
+This week, we will examine how digital tools and platforms are enabling the creation of new ventures and disrupting traditional business models. We'll explore the role of IT-enabled resources, accelerators, and media in the formation and growth of technology-based startups. The readings focus on the antecedents and consequences of these tools in driving innovation and entrepreneurial success.
+
+**Readings:**
+
+- Nevo, S., & Wade, M. R. (2010). The formation and value of IT-enabled resources: Antecedents and consequences of synergistic relationships. *MIS Quarterly*, 34(1), 163-183.
+
+- Yu, S. (2020). How do accelerators impact the performance of high-technology ventures? *Management Science*, 66(2), 530-552.
+
+- Greenwood, B. N., & Gopal, A. (2015). Tigerblood: Newspapers, blogs, and the founding of information technology firms. *Information Systems Research*, 26(4), 812-828.
+
+- Yu, S., & Fleming, L. (2022). Regional crowdfunding and high tech entrepreneurship. *Research Policy*, 51(9), 104348.
+
+- Freiberg, B., & Matz, S. C. (2023). Founder personality and entrepreneurial outcomes: A large-scale field study of technology startups. *Proceedings of the National Academy of Sciences*, 120(19), e2215829120.
+
 
 ## Week 6: Digital Transformation and Healthcare
 - The role of digital technologies in healthcare, telemedicine, health data, and patient care.
