@@ -123,7 +123,6 @@ This week, we will explore how digital transformation is revolutionizing the hea
 
 1. **McDermott, C. M.** Division of Labor and Operational Performance in Healthcare: The Utilization of Advanced Practice Providers in Medical Practice Groups. *Working paper under review* (Do not post). 
  
-
 2. **McDermott, C. M.** The Role of Family Engagement in Influencing Patient Satisfaction and Readmission. *Working paper under review* (Do not post).  
 
 3. **MIS Quarterly Research Curation on Health Information Technology**  
