@@ -15,7 +15,7 @@ To grasp the foundations of management in the digital age, it is essential to ex
 | 6   | 10/3  | Digital Transformation and Healthcare (Special Guest [Dr. Chris McDermott](https://faculty.rpi.edu/chris-mcdermott))               | Literature Slides                      | Create slides summarizing up to 3 different literature topics related to the research.                                                                 |
 | 7   | 10/10 | Platform Business Models                            | INSTRUCTOR WILL GIVE MIDTERM PARTICIPATION GRADE | Literature Draft | Submit a draft of up to 3 relevant topics related to the research domain. |
 | 8   | 10/17 | Digital Transformation and Supply Chain Management (Special Guests [Dr. Sebastian Souyris](https://faculty.rpi.edu/sebastian-souyris)) and [Dr. Hakan Hekimoglu](https://faculty.rpi.edu/m-hakan-hekimoglu)  | Hypotheses Slides                      | Develop slides presenting the hypotheses you intend to test in your research.                                                                          |
-| 9   | 10/24 | Risk and Cybersecurity in the Digital Age           |                                        |                                                                                                                                                        |
+| 9   | 10/24 | Judgement, Decision Making, and Cybersecurity in the Digital Age  (Special Guest [Dr. Gaurav Jain](https://faculty.rpi.edu/gaurav-jain))         |                                        |                                                                                                                                                        |
 | 10  | 10/31 | Digital Transformation and Public Sector/Government (Special Guest [Dr. Dr. Kedong Chen](https://faculty.rpi.edu/kedong-chen)) | Hypotheses Draft                       | Submit a draft of your hypotheses section.                                                                                                             |
 | 11  | 11/7  | Digital Transformation and Labor Markets (Special Guest [Dr. Nishtha Langer](https://faculty.rpi.edu/nishtha-langer))           |                                        |                                                                                                                                                        |
 | 12  | 11/14 | Digital Transformation and Organizational Change    | Draft Paper                            | Submit a full draft of your research paper including all previous sections.                                                                            |
@@ -114,6 +114,24 @@ This week, we will examine how digital tools and platforms are enabling the crea
 
 ## Week 6: Digital Transformation and Healthcare
 - The role of digital technologies in healthcare, telemedicine, health data, and patient care.
+
+## Week 6: Digital Transformation and Healthcare
+
+This week, we will explore how digital transformation is revolutionizing the healthcare sector. Key areas include the adoption of electronic health records (EHR), mergers in healthcare systems, and the role of technology in improving patient outcomes and organizational performance. The readings focus on the implementation of healthcare technologies and their broader implications for the industry.
+
+**Readings:**
+
+1. **McDermott, C. M.** Division of Labor and Operational Performance in Healthcare: The Utilization of Advanced Practice Providers in Medical Practice Groups. *Working paper under review* (Do not post). 
+ 
+
+2. **McDermott, C. M.** The Role of Family Engagement in Influencing Patient Satisfaction and Readmission. *Working paper under review* (Do not post).  
+
+3. **MIS Quarterly Research Curation on Health Information Technology**  
+   *Research Curation Team*: Aaron Baird (Georgia State University), Corey Angst (University of Notre Dame), Eivor Oborn (The University of Warwick). 
+
+4. **Somanchi, S., Greenwood, B., & Angst, C. M. (2023).** Come Together: An Empirical Investigation of EHR Adoption, Mergers, and Survival in the US Healthcare System. *George Mason University School of Business Research Paper*.  
+   [Available at SSRN](https://ssrn.com/abstract=4377097)
+
 
 ## Week 7: Platform Business Models
 - Understanding platform economics, network effects, and the role of digital platforms in business strategy.
