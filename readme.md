@@ -18,7 +18,7 @@ To grasp the foundations of management in the digital age, it is essential to ex
 | 9   | 10/24 | Judgement, Decision Making, and Cybersecurity in the Digital Age  (Special Guest [Dr. Gaurav Jain](https://faculty.rpi.edu/gaurav-jain))         |                                        |                                                                                                                                                        |
 | 10  | 10/31 | Digital Transformation and Public Sector/Government (Special Guest [Dr. Dr. Kedong Chen](https://faculty.rpi.edu/kedong-chen)) | Hypotheses Draft                       | Submit a draft of your hypotheses section.                                                                                                             |
 | 11  | 11/7  | Digital Transformation and Labor Markets (Special Guest [Dr. Nishtha Langer](https://faculty.rpi.edu/nishtha-langer))           |                                        |                                                                                                                                                        |
-| 12  | 11/14 | Digital Transformation and Organizational Change    | Draft Paper                            | Submit a full draft of your research paper including all previous sections.                                                                            |
+| 12  | 11/14 | Digital Transformation and Organizational Change (Special Guest [Dr. Johan Maharjan](https://faculty.rpi.edu/johan-maharjan))   | Draft Paper                            | Submit a full draft of your research paper including all previous sections.                                                                            |
 | 13  | 11/21 | Emerging Technologies, Ethics,  and the Future of Digital Transformation (Special Guest [Dr. Tanya Singh](https://faculty.rpi.edu/tanya-singh)) | Review Due | Submit a peer review of another student's draft paper (assignments to be given in class).                                           |
 | 14  | 11/28 | Thanksgiving break - No classes                     |                                        |                                                                                                                                                        |
 | 15  | 12/5  | Course Wrap-up and Final Presentations              | Full Presentation                      | Present your final research proposal to the class.                                                                                                     |
@@ -113,9 +113,6 @@ This week, we will examine how digital tools and platforms are enabling the crea
 
 
 ## Week 6: Digital Transformation and Healthcare
-- The role of digital technologies in healthcare, telemedicine, health data, and patient care.
-
-## Week 6: Digital Transformation and Healthcare
 
 This week, we will explore how digital transformation is revolutionizing the healthcare sector. Key areas include the adoption of electronic health records (EHR), mergers in healthcare systems, and the role of technology in improving patient outcomes and organizational performance. The readings focus on the implementation of healthcare technologies and their broader implications for the industry.
 
@@ -133,7 +130,23 @@ This week, we will explore how digital transformation is revolutionizing the hea
 
 
 ## Week 7: Platform Business Models
-- Understanding platform economics, network effects, and the role of digital platforms in business strategy.
+
+This week, we will explore platform economics, network effects, and the role of digital platforms in shaping business strategies. The readings will cover emerging views on platforms, strategies for managing network effects, and how digital ecosystems influence business performance.
+
+**Readings:**
+
+- **McIntyre, D. P., & Srinivasan, A. (2017).** Networks, platforms, and strategy: Emerging views and next steps. *Strategic Management Journal*, 38(1), 141-160.  
+  This paper provides a comprehensive overview of platforms and networks, highlighting the strategic implications for businesses and the next steps for research.
+
+- **Greenwood, B. N., & Wattal, S. (2017).** Show me the way to go home. *MIS Quarterly*, 41(1), 163-188.  
+  This paper explores the impact of digital platforms on user behavior, particularly how they influence decisions like returning home, emphasizing the role of network effects.
+
+- **Agarwal, S., Miller, C. D., & Ganco, M. (2023).** Growing platforms within platforms: How platforms manage the adoption of complementor products in the presence of network effects? *Strategic Management Journal*, 44(8), 1879-1910.  
+  This study examines how platforms grow by fostering the adoption of complementary products, focusing on the dynamics between platforms and network effects.
+
+- **Miller, C. D., & Toh, P. K. (2022).** Complementary components and returns from coordination within ecosystems via standard setting. *Strategic Management Journal*, 43(3), 627-662.  
+  This paper investigates the role of coordination and standard-setting in platform ecosystems, analyzing how these factors contribute to the success of complementary products.
+
 
 ## Week 8: Digital Transformation and Supply Chain Management
 - The impact of digital tools on supply chain efficiency, transparency, and sustainability.
