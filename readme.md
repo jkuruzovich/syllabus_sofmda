@@ -136,20 +136,30 @@ This week, we will explore platform economics, network effects, and the role of 
 **Readings:**
 
 - **McIntyre, D. P., & Srinivasan, A. (2017).** Networks, platforms, and strategy: Emerging views and next steps. *Strategic Management Journal*, 38(1), 141-160.  
-  This paper provides a comprehensive overview of platforms and networks, highlighting the strategic implications for businesses and the next steps for research.
+  
 
 - **Greenwood, B. N., & Wattal, S. (2017).** Show me the way to go home. *MIS Quarterly*, 41(1), 163-188.  
-  This paper explores the impact of digital platforms on user behavior, particularly how they influence decisions like returning home, emphasizing the role of network effects.
+ 
 
 - **Agarwal, S., Miller, C. D., & Ganco, M. (2023).** Growing platforms within platforms: How platforms manage the adoption of complementor products in the presence of network effects? *Strategic Management Journal*, 44(8), 1879-1910.  
-  This study examines how platforms grow by fostering the adoption of complementary products, focusing on the dynamics between platforms and network effects.
+ 
 
 - **Miller, C. D., & Toh, P. K. (2022).** Complementary components and returns from coordination within ecosystems via standard setting. *Strategic Management Journal*, 43(3), 627-662.  
-  This paper investigates the role of coordination and standard-setting in platform ecosystems, analyzing how these factors contribute to the success of complementary products.
 
 
-## Week 8: Digital Transformation and Supply Chain Management
-- The impact of digital tools on supply chain efficiency, transparency, and sustainability.
+## Week 8: Digital Transformation and Supply Chain Management  
+
+This week, we will examine how digital tools transform supply chains by enhancing efficiency, transparency, and sustainability. The readings explore the role of real-time event monitoring, visual nudges during crises, blockchain technology in operations, and the influence of big data on behavioral outcomes.
+
+**Readings:**  
+
+- **Divey, S., Hekimoglu, M. H., & Ravichandran, T. (2024).** The role of real-time event monitoring in dynamic response to disruptions. *Production and Operations Management, 33*(10), 2031-2050.  
+
+- **Ivanov, A., Tacheva, Z., Alzaidan, A., Souyris, S., & England, A. C. (2023).** Informational value of visual nudges during crises: Improving public health outcomes through social media engagement amid COVID-19. *Production and Operations Management, 32*, 2400–2419.  
+
+- **Babich, V., & Hilary, G. (2019).** OM Forum—Distributed ledgers and operations: What operations management researchers should know about blockchain technology. *Manufacturing & Service Operations Management, 22*(2), 223-240.  
+
+- **Acemoglu, D., Makhdoumi, A., Malekian, A., & Ozdaglar, A. (Forthcoming, June 2024).** When big data enables behavioral manipulation. *American Economic Review: Insights*.  
 
 ## Week 9: Cybersecurity and Privacy in the Digital Age
 - Exploring the challenges and strategies related to data security, privacy, and ethical concerns.
