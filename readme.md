@@ -161,8 +161,20 @@ This week, we will examine how digital tools transform supply chains by enhancin
 
 - **Acemoglu, D., Makhdoumi, A., Malekian, A., & Ozdaglar, A. (Forthcoming, June 2024).** When big data enables behavioral manipulation. *American Economic Review: Insights*.  
 
-## Week 9: Cybersecurity and Privacy in the Digital Age
-- Exploring the challenges and strategies related to data security, privacy, and ethical concerns.
+## Week 9: Cybersecurity and Privacy in the Digital Age  
+
+This week, we will explore the challenges and strategies related to data security, privacy, and ethical concerns in the digital age. The readings focus on topics such as user experience dark patterns, firm social performance and data breaches, peer-to-peer loan fraud detection, and the influence of attribute framing on decision-making.
+
+**Readings:**  
+
+- **Jain, G., Gaeth, G. J., Nayakankuppam, D., & Levin, I. P. (2020).** Revisiting attribute framing: The impact of number roundedness on framing. *Organizational Behavior and Human Decision Processes, 161*, 109–119.  
+
+- **Gray, C. M., Kou, Y., Battles, B., Hoggatt, J., & Toombs, A. L. (2018).** The dark (patterns) side of UX design. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems*, 1–14.  
+
+- **D’Arcy, J., Adjerid, I., Angst, C. M., & Glavas, A. (2020).** Too good to be true: Firm social performance and the risk of data breach. *Information Systems Research, 31*(4), 1200–1223.  
+
+- **Xu, J. J., Chen, D., Chau, M., Li, L., & Zheng, H. (2022).** Peer-to-peer loan fraud detection: Constructing features from transaction data. *MIS Quarterly, 46*(3).  
+
 
 ## Week 10: Digital Transformation and Public Sector/Government
 - The adoption of digital technologies in government, smart cities, and public services.
