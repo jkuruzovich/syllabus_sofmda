@@ -161,9 +161,9 @@ This week, we will examine how digital tools transform supply chains by enhancin
 
 - **Acemoglu, D., Makhdoumi, A., Malekian, A., & Ozdaglar, A. (Forthcoming, June 2024).** When big data enables behavioral manipulation. *American Economic Review: Insights*.  
 
-## Week 9: Cybersecurity and Privacy in the Digital Age  
+## Week 9: Judgement, Decision Making, and Cybersecurity in the Digital Age
 
-This week, we will explore the challenges and strategies related to data security, privacy, and ethical concerns in the digital age. The readings focus on topics such as user experience dark patterns, firm social performance and data breaches, peer-to-peer loan fraud detection, and the influence of attribute framing on decision-making.
+This week, we delve into the complexities of decision making and cyber security in the digital age. 
 
 **Readings:**  
 
