@@ -176,8 +176,21 @@ This week, we will explore the challenges and strategies related to data securit
 - **Xu, J. J., Chen, D., Chau, M., Li, L., & Zheng, H. (2022).** Peer-to-peer loan fraud detection: Constructing features from transaction data. *MIS Quarterly, 46*(3).  
 
 
-## Week 10: Digital Transformation and Public Sector/Government
-- The adoption of digital technologies in government, smart cities, and public services.
+## Week 10: Digital Transformation and Public Sector/Government  
+
+This week, we will explore the adoption of digital technologies in government, focusing on smart cities, public services, and how governments leverage digital tools for innovation, efficiency, and transparency.
+
+**Readings:**  
+
+- **Chen, K., Liu, X., Li, Y., & Linderman, K. (2023).** Government support and cross-border innovation: The effect of China's innovative city policy on Chinese firms' patenting in the United States. *Production and Operations Management, 32*(6), 1793-1811.  
+
+- **Ganesh, M., Deo, S., & Devalkar, S. K. (2024).** Leveraging digital technology to improve monitoring and planning in public sector supply chains: Evidence from India’s food security program. *Production and Operations Management, 33*(4), 861-879.  
+
+- **Shin, S. R., Lee, J., Jung, Y. R., & Hwang, J. (2022).** The diffusion of scientific discoveries in government laboratories: The role of patents filed by government scientists. *Research Policy, 51*(5), 104496.  
+
+- **Dunleavy, P., Margetts, H., Bastow, S., & Tinkler, J. (2006).** New public management is dead—Long live digital-era governance. *Journal of Public Administration Research and Theory, 16*(3), 467-494.  
+  
+
 
 ## Week 11: Digital Transformation and Labor Markets
 - Examining the effects of digital transformation on labor markets, including automation, AI, and the gig economy. We'll explore how digital tools are reshaping work, employment patterns, and the skills required for the future workforce.
