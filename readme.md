@@ -193,7 +193,15 @@ This week, we will explore the adoption of digital technologies in government, f
 
 
 ## Week 11: Digital Transformation and Labor Markets
-- Examining the effects of digital transformation on labor markets, including automation, AI, and the gig economy. We'll explore how digital tools are reshaping work, employment patterns, and the skills required for the future workforce.
+
+In this session, we examine the effects of digital transformation on labor markets, focusing on themes like automation, AI, and the gig economy. We’ll explore how digital tools are reshaping work, influencing employment patterns, and shifting the skill requirements for the future workforce.
+
+### Readings
+
+- **Langer, Nishtha, Gopal, Ram D., & Bapna, Ravi** (2020). *Onward and upward? An empirical investigation of gender and promotions in Information Technology Services*. *Information Systems Research*, 31(2), 383-398. INFORMS.
+
+- **DeVaro, Jed** (2006). *Strategic promotion tournaments and worker performance*. *Strategic Management Journal*, 27(8), 721-740. Wiley Online Library.
+
 
 ## Week 12: Digital Transformation and Organizational Change
 - How organizations adapt to digital transformation, including change management and leadership.
