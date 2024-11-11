@@ -203,8 +203,20 @@ In this session, we examine the effects of digital transformation on labor marke
 - **DeVaro, Jed** (2006). *Strategic promotion tournaments and worker performance*. *Strategic Management Journal*, 27(8), 721-740. Wiley Online Library.
 
 
-## Week 12: Digital Transformation and Organizational Change
-- How organizations adapt to digital transformation, including change management and leadership.
+## Digital Transformation and Organizational Change
+**Special Guest: Dr. Johan Maharjan**
+
+Dr. Johan Maharjan will join as a special guest to discuss his recent work and we have a mix of paper themes from last and this week.
+
+### Readings
+
+- **Huang, Sheng, Maharjan, Johan, & Nanda, Vikram** (2024). *Liquid stock as an acquisition currency*. *Journal of Corporate Finance*, 85, 102562. Elsevier.
+
+- **Tidhar, Ron, Hallen, Benjamin L., & Eisenhardt, Kathleen M.** (2024). *Measure Twice, Cut Once: Unit Profitability, Scalability, and the Exceptional Growth of New Firms*. *Organization Science*. INFORMS.
+
+- **Hui, Xiang, Reshef, Oren, & Zhou, Luofeng** (2024). *The short-term effects of generative artificial intelligence on employment: Evidence from an online labor market*. *Organization Science*. INFORMS.
+
+- **Zhang, Yingjie, Zheng, Zhiqiang, & Gu, Bin** (2024). *Omnificence or Differentiation? An Empirical Study of Knowledge Structure and Career Development of IT Workers*. *Information Systems Research*. INFORMS.
 
 ## Week 13: Emerging Technologies and the Future of Digital Transformation
 - A look at emerging technologies such as AI, IoT, quantum computing, and their potential impact.
