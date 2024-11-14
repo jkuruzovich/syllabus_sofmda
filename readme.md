@@ -19,7 +19,7 @@ To grasp the foundations of management in the digital age, it is essential to ex
 | 10  | 10/31 | Digital Transformation and Public Sector/Government (Special Guest [Dr. Dr. Kedong Chen](https://faculty.rpi.edu/kedong-chen)) | Hypotheses Draft                       | Submit a draft of your hypotheses section.                                                                                                             |
 | 11  | 11/7  | Digital Transformation and Labor Markets (Special Guest [Dr. Nishtha Langer](https://faculty.rpi.edu/nishtha-langer))           |                                        |                                                                                                                                                        |
 | 12  | 11/14 | Digital Transformation and Organizational Change (Special Guest [Dr. Johan Maharjan](https://faculty.rpi.edu/johan-maharjan))   | Draft Paper                            | Submit a full draft of your research paper including all previous sections.                                                                            |
-| 13  | 11/21 | Emerging Technologies, Ethics,  and the Future of Digital Transformation (Special Guest [Dr. Tanya Singh](https://faculty.rpi.edu/tanya-singh)) | Review Due | Submit a peer review of another student's draft paper (assignments to be given in class).                                           |
+| 13  | 11/21 | Emerging Technologies & Ethics(Special Guest [Dr. Tanya Singh](https://faculty.rpi.edu/tanya-singh)) | Review Due | Submit a peer review of another student's draft paper (assignments to be given in class).                                           |
 | 14  | 11/28 | Thanksgiving break - No classes                     |                                        |                                                                                                                                                        |
 | 15  | 12/5  | Course Wrap-up and Final Presentations              | Full Presentation                      | Present your final research proposal to the class.                                                                                                     |
 |     | 12/13 | Finals Week                                         | Final Paper                            | Submit your final research paper proposal.                                                                                                             |
@@ -218,8 +218,22 @@ Dr. Johan Maharjan will join as a special guest to discuss his recent work and w
 
 - **Zhang, Yingjie, Zheng, Zhiqiang, & Gu, Bin** (2024). *Omnificence or Differentiation? An Empirical Study of Knowledge Structure and Career Development of IT Workers*. *Information Systems Research*. INFORMS.
 
-## Week 13: Emerging Technologies and the Future of Digital Transformation
-- A look at emerging technologies such as AI, IoT, quantum computing, and their potential impact.
+## Week 13: Emerging Technologies & Ethics  
+
+This week, we will explore ethical considerations surrounding emerging technologies. Topics include how programming tasks can influence moral reasoning in novice programmers, interventions to combat fake news on social media, ethical algorithm design, and the financial implications of experimentation in technology-driven ventures.
+
+**Readings:**  
+
+- **Singh, T. (Working paper).** Programming tasks impact responses to moral dilemmas for novice programmers.  
+
+- **Moravec, P. L., Kim, A., & Dennis, A. R. (2020).** Appealing to sense and sensibility: System 1 and System 2 interventions for fake news on social media. *Information Systems Research, 31*(3), 987-1006.  
+
+- **Martin, K. (2019).** Designing ethical algorithms. *MIS Quarterly Executive*, June.  
+
+- **Ewens, M., Nanda, R., & Rhodes-Kropf, M. (2018).** Cost of experimentation and the evolution of venture capital. *Journal of Financial Economics, 128*(3), 422-442.  
+
+
+
 
 ## Week 14: Course Wrap-up and Final Presentations
 - Summary of key learnings, open discussion on future research and practice, and final presentations.
